@@ -398,7 +398,7 @@ python validate_dimensional_cascade_multisize.py
 
 All code, data, and documentation available at:
 - **GitHub:** https://github.com/existencethreshold/dimensional-boundary-loss
-- **Zenodo:** https://doi.org/10.5281/zenodo.18238486
+- **Zenodo:** https://doi.org/10.5281/zenodo.18238485
 
 **License:** MIT (free to use with attribution)
 
