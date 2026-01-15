@@ -328,12 +328,12 @@ Fort Wayne, Indiana, USA
 ## Recent Publications
 
 **Pattern Loss at Dimensional Boundaries: The 86% Scaling Law** (2026)
-- Zenodo: https://doi.org/10.5281/zenodo.18238486
+- Zenodo: https://doi.org/10.5281/zenodo.18238485
 - Code: https://github.com/existencethreshold/dimensional-boundary-loss
 - Status: Peer review (PLOS Complex Systems)
 
 **The Existence Threshold v2.1** (2026)
-- DOI: https://doi.org/10.5281/zenodo.18182662
+- DOI: https://doi.org/10.5281/zenodo.18124074
 
 ## 🙏 Acknowledgments
 
