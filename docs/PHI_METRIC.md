@@ -326,7 +326,7 @@ def calculate_phi(pattern):
 
 **Questions?** See METHODOLOGY.md or open a GitHub issue
 
-**DOI:** https://doi.org/10.5281/zenodo.18238486
+**DOI:** https://doi.org/10.5281/zenodo.18238485
 
 **Author:** Nathan M. Thornhill  
 **Last Updated:** January 2026
